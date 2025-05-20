@@ -1,6 +1,6 @@
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
 
-*COMPANY* : CODETECH IT SOLUTION
+*COMPANY* : CODTECH IT SOLUTION
 
 *NAME* : SURAGANI PRAKASH
 
@@ -64,3 +64,8 @@ The frontend is built using **React.js**, which offers a fast, responsive, and c
 
 This collaborative document editor is a modern web application designed with scalability and interactivity in mind. By integrating WebSockets for real-time updates, a rich editing experience via Slate.js, and a robust backend powered by Node.js and MongoDB, it provides users with an intuitive platform for teamwork and productivity. Whether for education, remote work, or shared note-taking, this tool lays the foundation for a feature-rich, collaborative digital workspace.
 
+---
+
+# REAL TIME COLLABORATIVE DOCUMENT EDITOR OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/0837344a-1844-4da8-a61f-8ddb3dd8a954)
